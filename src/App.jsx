@@ -106,7 +106,7 @@ function Footer() {
 // Main App Component
 function App() {
   return (
-    <Router>
+    <Router basename="/prototipo-dcu">
       <ScrollToTop />
       <div className="App">
         <Navigation />

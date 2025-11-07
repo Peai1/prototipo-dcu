@@ -2,6 +2,8 @@
 
 Dashboard profesional para un Laboratorio de Experiencia de Usuario (UX), diseñado siguiendo los principios del Diseño Centrado en Usuarios (DCU).
 
+🔗 **Demo en vivo**: https://peai1.github.io/prototipo-dcu/
+
 ## 📋 Descripción del Proyecto
 
 Este proyecto es un prototipo funcional de dashboard web que presenta los servicios de un laboratorio de UX. Fue desarrollado basándose en investigación real con usuarios potenciales y validación mediante el método Think-Aloud.
